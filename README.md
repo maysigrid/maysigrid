@@ -2,8 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f2c,50:1a3a8f,100:00d4ff&height=180&section=header&text=Hey%20There!%20I'm%20May%20Sigrid%20Dimaano&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Software%20Engineer&descAlignY=55&descSize=18" />
 </div>
 <div align="center">
- ### 👋 Hi, I'm **May Sigrid Dimaano**
-  
+
+### 👋 Hi, I'm **May Sigrid Dimaano** — *aka* **mayciii**
+
+</div>
   > *"Behind the screen, beyond the scene."*
 
 
