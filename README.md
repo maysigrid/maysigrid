@@ -5,10 +5,6 @@
 
 ### 👋 Hi, I'm **May Sigrid Dimaano** — *aka* **mayciii**
 
-</div>
-  > *"Behind the screen, beyond the scene."*
-
-
 
 </div>
 
