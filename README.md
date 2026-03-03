@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f2c,50:1a3a8f,100:00d4ff&height=180&section=header&text=Hey%20There!%20I'm%20May%20Sigrid%20Dimaano&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Software%20Engineer&descAlignY=55&descSize=18" />
 </div>
 <div align="center">
-  ###  I'm **May Sigrid Dimaano** — *aka* **maycii**
+ ### 👋 Hi, I'm **May Sigrid Dimaano**
   
   > *"Behind the screen, beyond the scene."*
 
@@ -81,5 +81,5 @@ else:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:1a3a8f,100:0a0f2c&height=120&section=footer&animation=twinkling" />
 </div>
