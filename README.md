@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f2c,50:1a3a8f,100:00d4ff&height=180&section=header&text=Hey%20There!%20I'm%20May%20Sigrid%20Dimaano&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Software%20Engineer&descAlignY=55&descSize=18" />
 </div>
 <div align="center">
-  
   ###  I'm **May Sigrid Dimaano** — *aka* **maycii**
   
   > *"Behind the screen, beyond the scene."*
@@ -34,7 +33,6 @@ else:
 ## 🚀 What I'm Up To
 
 - 🔨 **Currently working on** and developing my programming skills
-- 🧱 Worked on **.NET Framework** and experience in **Model-View-Controller**
 - 💻 Skills I'm acquiring: **Python**, **SQL**, and more
 - 🤖 Interest in **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, **Data Science**, **Automation**, **Blockchain Development**
 - ✨ *I only like perfection.*
@@ -45,12 +43,9 @@ else:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thadijoshua@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuathadi)
-[![Shell](https://img.shields.io/badge/Terminal-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com/JoshuaThadi)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
-
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sigriddimaano@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/may-sigrid-dimaano-4052a43aa)
+[![Shell](https://img.shields.io/badge/Terminal-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com/mayciii)
 </div>
 
 ---
@@ -83,10 +78,7 @@ else:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-
 ---
-
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
